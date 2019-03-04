@@ -1,0 +1,2 @@
+Validar los tipos de datos que llegan como props:
+ - https://reactjs.org/docs/typechecking-with-proptypes.html
